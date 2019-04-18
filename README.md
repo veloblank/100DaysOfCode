@@ -28,7 +28,7 @@ I really like the Hartl book. The coding is clean and he seems to realize the
 importance of using/creating tests to guide the coding. While this is a little
 step away from the curriculum and my overall goal of completing my Rails project
 in the next 2 weeks, it will help round out my Rails learning.
-**8/10 productivity**
+**6/10 productivity**
 
 ## Day 3-4: April 16, 17, 2019
 
