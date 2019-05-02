@@ -45,3 +45,141 @@ the Flatiron curriculum, but at this point it's important for me to code every
 day and keep the momentum going. I re-learned some things about Git and I got
 to troubleshoot some Ubuntu-specific issues affecting my Ruby installation.
 **7/10 productivity**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress:**
+I was excited today to start 100 Days of Code again. I was very productive yesterday, prepping my workspace, installing the right tools again, and actually doing a lot of work in the editor. I didn't have my Wakatime plugin working since I reinstalled Atom, but there was at least 5 hours of coding in the editor, plus outside reading material.
+
+Today, I was not as productive, but I still met my 1 hour goal easily. I am working on the Rails and JS part of the curriculum--learning about navigating and building APIs. I finished a few labs and then switched back to the HTML section that opened up in v7 of the curriculum.
+
+**Thoughts:**
+I'm overall content with the day. I'm getting ready for the work week, so I'm a little worried about finding time to continue programming each day. We shall see.
+**6/10 productivity**
+
+<!-- ## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+## Day 1: May 1, 2019 (R2D1)
+
+**Today's Progress**
+**Thoughts**
+
+ -->
