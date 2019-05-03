@@ -57,12 +57,14 @@ Today, I was not as productive, but I still met my 1 hour goal easily. I am work
 I'm overall content with the day. I'm getting ready for the work week, so I'm a little worried about finding time to continue programming each day. We shall see.
 **6/10 productivity**
 
-<!-- ## Day 1: May 1, 2019 (R2D1)
+## Day : May 2, 2019 (R2D2)
 
 **Today's Progress**
+I was a little worried about getting my programming in today. I had to work, but I got almost 1.5 hrs in at Starbucks before heading to work. I had some frustration with a version of sqlite3, but I resolved it by deleting my projects Gemfile.lock and just bundle installing a brand new Gemfile.lock. I'm proud to have at least started my project and pushing to GH. That's a a nice little boost in confidence. I have been watching a Flatiron Study Group led by Jenn Hansen that was really good. I will watch the 2nd part tonight.
 **Thoughts**
+It's nice to have gotten to day 2 unscathed. If I spend some time coding tonight it will technically count as my Day 3 (after midnight). We'll see how tomorrow goes.
 
-## Day 1: May 1, 2019 (R2D1)
+<!-- ## Day 1: May 1, 2019 (R2D1)
 
 **Today's Progress**
 **Thoughts**
