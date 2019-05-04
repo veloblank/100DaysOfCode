@@ -66,12 +66,16 @@ I was a little worried about getting my programming in today. I had to work, but
 It's nice to have gotten to day 2 unscathed. If I spend some time coding tonight it will technically count as my Day 3 (after midnight). We'll see how tomorrow goes.
 **6/10 productivity**
 
-<!-- ## Day 1: May 1, 2019 (R2D1)
+## Day 3: May 3, 2019 (R2D3)
 
 **Today's Progress**
-**Thoughts**
+Today I worked on a CSS Flexbox Lab. It gave me a new appreciation for writing my own CSS rather than a Bootstrap-ped version. The flexbox seems like an easy thing to learn and use. It makes presentation of a dynamic web page much cleaner and cleans up a landing page very nicely by centering the content and adjusting for the viewport.
 
-## Day 1: May 1, 2019 (R2D1)
+**Thoughts**
+Day 3 in the books.
+**5/10 productivity**
+
+<!--## Day 1: May 1, 2019 (R2D1)
 
 **Today's Progress**
 **Thoughts**
