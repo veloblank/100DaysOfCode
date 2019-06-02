@@ -1,79 +1,31 @@
-<!-- ## Day 1: April 15, 2019
+#100DaysOfCode Log
+This is a public log of my first round of the #100DaysOfCode challenge. Each day I will code for one hour or more and take note of my progress. Please feel free to join me on my journey!
 
-**Today's Progress:**
+Start Date: June 1, 2019
 
-**Thoughts:**  -->
+Plan of Action
+For this round, I have a few projects & goals that I would like to achieve, including a few personal projects, some tutorials I have yet to finish, and the job hunting process. Major goals include:
 
-## Day 1: April 15, 2019
+Complete a major project due every end of the month beginning with June 30th.
+After each project (or until a job is accepted!), apply to at least 6 jobs, three of which must be technical, while the remainder can be a mixture of technical and non-technical jobs in the tech industry.
 
-**Today's Progress:**
-Completed 4 modules/labs on Learn. Going through Authentication again in Rails.
+Blog every week
 
-**Thoughts:**
-This is the second time I've gone through this section of Rails. Because of how
-long this Rails section has taken me to complete my project, I thought it would
-be a good idea to back over things and get a better understanding of things while
-I plan out my project.
-**6/10 productivity**
+Code mini projects for fun, even if they are messy.
 
-## Day 2: April 16, 2019
+Take breaks if I need to.
+Have fun :)
 
-**Today's Progress:**
-Started working through Rails book by Michael Hartl. I intend to build his 3
-projects in the book. Also continued on Authentication section of Learn
-curriculum.
+Challenge Summary
 
-**Thoughts:**
-I really like the Hartl book. The coding is clean and he seems to realize the
-importance of using/creating tests to guide the coding. While this is a little
-step away from the curriculum and my overall goal of completing my Rails project
-in the next 2 weeks, it will help round out my Rails learning.
-**6/10 productivity**
+Days
+Day 1 | Day 2 | Day 3 | Day 4 | Day 5 Day 6 Day 7 Day 8 Day 9 Day 10 Day 11 Day 12 Day 13 Day 14 Day 15 Day 16 Day 17 Day 18 Day 19 Day 20 Day 21 Day 22 Day 23 Day 24 Day 25 Day 26 Day 27 Day 28 Day 29 Day 30 Day 31 Day 32 Day 33 Day 34 Day 35 Day 36 Day 37 Day 38 Day 39 Day 40 Day 41 Day 42 Day 43 Day 44 Day 45 Day 46 Day 47 Day 48 Day 49 Day 50 Day 51 Day 52 Day 53 Day 54 Day 55 Day 56 Day 57 Day 58 Day 59 Day 60 Day 61 Day 62 Day 63 Day 64 Day 65 Day 66 Day 67 Day 68 Day 69 Day 70 Day 71 Day 72 Day 73 Day 74 Day 75 Day 76 Day 77 Day 78 Day 79 Day 80 Day 81 Day 82 Day 83 Day 84 Day 85 Day 86 Day 87 Day 88 Day 89 Day 90 Day 91 Day 92 Day 93 Day 94 Day 95 Day 96 Day 97 Day 98 Day 99 Day 100
 
-## Day 3-4: April 16, 17, 2019
-
-**Today's Progress:**
-Continued reading the Hartl Rails e-book. Worked on 5 labs and 6 modules of
-Learn curriculum in the new v7 version of the curriculum. Fixed an issue with
-Rails and rvm that was affecting productivity. Updated some gems in my Sinatra
-project that was preventing the Puma server from starting using the Shotgun
-gem.
-
-**Thoughts:**
-The labs were some busy work since I didn't really need to jump into the v7 of
-the Flatiron curriculum, but at this point it's important for me to code every
-day and keep the momentum going. I re-learned some things about Git and I got
-to troubleshoot some Ubuntu-specific issues affecting my Ruby installation.
-**7/10 productivity**
-
-## Day 1: May 1, 2019 (R2D1)
-
-**Today's Progress:**
-I was excited today to start 100 Days of Code again. I was very productive yesterday, prepping my workspace, installing the right tools again, and actually doing a lot of work in the editor. I didn't have my Wakatime plugin working since I reinstalled Atom, but there was at least 5 hours of coding in the editor, plus outside reading material.
-
-Today, I was not as productive, but I still met my 1 hour goal easily. I am working on the Rails and JS part of the curriculum--learning about navigating and building APIs. I finished a few labs and then switched back to the HTML section that opened up in v7 of the curriculum.
-
-**Thoughts:**
-I'm overall content with the day. I'm getting ready for the work week, so I'm a little worried about finding time to continue programming each day. We shall see.
-**6/10 productivity**
-
-## Day : May 2, 2019 (R2D2)
-
-**Today's Progress:**
-I was a little worried about getting my programming in today. I had to work, but I got almost 1.5 hrs in at Starbucks before heading to work. I had some frustration with a version of sqlite3, but I resolved it by deleting my projects Gemfile.lock and just bundle installing a brand new Gemfile.lock. I'm proud to have at least started my project and pushing to GH. That's a a nice little boost in confidence. I have been watching a Flatiron Study Group led by Jenn Hansen that was really good. I will watch the 2nd part tonight.
-
-**Thoughts:**
-It's nice to have gotten to day 2 unscathed. If I spend some time coding tonight it will technically count as my Day 3 (after midnight). We'll see how tomorrow goes.
-**6/10 productivity**
-
-## Day 3: May 3, 2019 (R2D3)
-
-**Today's Progress**
-Today I worked on a CSS Flexbox Lab. It gave me a new appreciation for writing my own CSS rather than a Bootstrap-ped version. The flexbox seems like an easy thing to learn and use. It makes presentation of a dynamic web page much cleaner and cleans up a landing page very nicely by centering the content and adjusting for the viewport.
-
-**Thoughts**
-Day 3 in the books.
-**5/10 productivity**
+Milestones
+Projects
+Mini Projects
+Blogposts
+Log
 
 <!--## Day 1: May 1, 2019 (R2D1)
 
